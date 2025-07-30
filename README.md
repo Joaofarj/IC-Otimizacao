@@ -49,8 +49,6 @@ A formulação completa está apresentada no relatório em PDF. O modelo foi res
 
 > Foram construídas 5 carteiras (fev-jun 2023), avaliando o retorno após um ano. Os dados mostram retornos, em diversos casos, superiores à Taxa Selic e comparáveis ao Ibovespa.
 
----
-
 ## Resultados
 
 | Mês       | Previsão Acumulada (%) | Previsão Fixa (%) | Selic (%) | Ibovespa (%) |
