@@ -27,8 +27,6 @@ Utilizou-se como base o modelo proposto por Mansini e Speranza (2005), que selec
 
 A formulação completa está apresentada no relatório em PDF. O modelo foi resolvido usando o solver **SCIP**.
 
----
-
 ## Experimentos
 
 ### Etapa 1 – Validação do Modelo
@@ -65,7 +63,6 @@ A formulação completa está apresentada no relatório em PDF. O modelo foi res
 
 > Observa-se que o portfólio ESG teve retornos promissores, em alguns casos superando o Ibovespa, mesmo com limitações de horizonte de tempo e instabilidade do mercado.
 
----
 
 ## Conclusões
 
@@ -74,7 +71,6 @@ A formulação completa está apresentada no relatório em PDF. O modelo foi res
 - O modelo adaptado se mostrou aplicável e eficiente para seleção de portfólios ESG no Brasil.
 - A **volatilidade de curto prazo** impacta as previsões, reforçando a recomendação de investimentos em janelas mais longas (5 anos, por exemplo).
 
----
 
 ## Trabalhos Futuros
 
@@ -83,7 +79,6 @@ A formulação completa está apresentada no relatório em PDF. O modelo foi res
 - Análise com outros índices e classificações ESG;
 - Exploração de modelos estocásticos ou com machine learning.
 
----
 
 ## Organização do Repositório
 
