@@ -1,5 +1,4 @@
-# Iniciação científica - Seleção de portfólio considerando o investimento sustentável
-
+# Iniciação científica
 Aluno: João Pedro Farjoun Silva / N° usp: 13731319
 
 
