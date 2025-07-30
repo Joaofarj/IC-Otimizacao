@@ -15,8 +15,6 @@ Este repositório contém os códigos, dados e resultados do projeto de Iniciaç
 
 Investigar se é possível obter retornos competitivos no mercado financeiro investindo exclusivamente em ações ESG (Environmental, Social and Governance). Para isso, foi adaptado e aplicado um modelo de otimização de portfólios a dados reais do mercado brasileiro.
 
----
-
 ## Metodologia
 
 Utilizou-se como base o modelo proposto por Mansini e Speranza (2005), que seleciona um portfólio ótimo considerando:
